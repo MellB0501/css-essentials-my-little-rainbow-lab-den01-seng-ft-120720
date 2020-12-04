@@ -11,7 +11,7 @@ div {
 }
 
 #red {
-  border-top-color: f00;
+  border-top-color: #f00;
 }
 
 #orange {
@@ -23,11 +23,11 @@ div {
 }
 
 #green {
-  border-top-color: 008000;
+  border-top-color: #008000;
 }
 
 #blue {
-  border-top-color: 00f;
+  border-top-color: #00f;
 }
 
 #indigo {
